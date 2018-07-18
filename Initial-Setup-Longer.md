@@ -4,8 +4,6 @@
 This ReadMe is a guide to getting everything you need to start automation testing web & mobile apps. 
 
 ### Before you go any further, please Select your OS Below to ensure you follow the correct instructions.
-#### [MacOS](https://gitlab.com/DMI-TA/getting-started/blob/master/Initial-Setup.md#macos)
-#### [Windows](https://gitlab.com/DMI-TA/getting-started/blob/master/Initial-Setup.md#windows)
 
 # Setup on Mac OS:
 1. Create a Folder Directory called `Drivers` in your `/Users/YourUserNameHere/` Directory where YourUserNameHere is your Mac Username.
