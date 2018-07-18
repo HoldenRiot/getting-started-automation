@@ -1,0 +1,32 @@
+#!/bin/bash
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew update
+brew upgrade
+brew cask install
+brew install node
+brew install wget
+brew install git
+brew install curl
+brew install docker
+brew cask install mark-text
+npm install -g @angular/cli
+npm install -g protractor
+npm install serverless -g
+webdriver-manager update
+brew cask install intellij-idea-ce
+brew cask install visual-studio-code
+brew cask install google-chrome
+brew cask install firefox
+brew cask install java
+brew install maven
+brew cask install chromedriver
+brew cask install geckodriver
+
+echo Initial setup Complete.  Have a great day!
+echo ----------
+echo The Following has been installed on your machine:
+echo Homebrew, Node, Wget, Git, Curl, Docker, MarkText, Angular, Protractor, Serverless, Webdiriver Manager, IntelliJ IDE, Visual Studio Code, Google Chrome, Firefox, Java, Chromedriver, Geckodriver, and Maven.
+echo 
+echo Please visit the Initial-Setup ReadMe to check and finish the Setup.
+
