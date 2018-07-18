@@ -3,8 +3,6 @@
 This ReadMe is a list of recommended Software Testing Tools & Software for getting started.
 
 ### Before you go any further, please Select your OS Below to ensure you follow the correct instructions.
-- [MacOS](https://gitlab.com/DMI-TA/getting-started/blob/master/Initial-Setup.md#macos)
-- [Windows](https://gitlab.com/DMI-TA/getting-started/blob/master/Initial-Setup.md#windows)
 
 # Recommended Tools:
 ## IDE's:
@@ -52,4 +50,4 @@ This ReadMe is a list of recommended Software Testing Tools & Software for getti
 ## Other Helpful Testing Tools:
 - **[Monosnap](https://monosnap.com/welcome)** is a tool that re recommend for taking screenshots, snips, with the ability to draw on it, add text, and even shoot video and share files as well as store online.
 
-**[Back To Table of Contents](https://gitlab.com/DMI-TA/getting-started/blob/master/1-Start-Here.md)**
+**[Back To Table of Contents](https://github.com/HoldenRiot/getting-started-automation/blob/master/1-Start-Here.md)**

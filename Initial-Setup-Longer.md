@@ -167,4 +167,4 @@ Still having Issues with Setup on Windows? View the Help Guides:
 - [How to Install Maven on Windows](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
 - [How-To Install Maven and Java JDK on Windows 10](https://www.youtube.com/watch?v=1bDd5B8TA2g&feature=youtu.be)
 
-**[Back To Table of Contents](https://gitlab.com/DMI-TA/getting-started/blob/master/1-Start-Here.md)**
+**[Back To Table of Contents](https://github.com/HoldenRiot/getting-started-automation/blob/master/1-Start-Here.md)**

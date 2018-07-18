@@ -65,4 +65,4 @@ Git is easy to learn and has a tiny footprint with lightning fast performance. I
 - [Documentation](https://git-scm.com/doc)
 - [Git Community](https://git-scm.com/community)
 
-**[Back To Table of Contents](https://gitlab.com/DMI-TA/getting-started/blob/master/1-Start-Here.md)**
+**[Back To Table of Contents](https://github.com/HoldenRiot/getting-started-automation/blob/master/1-Start-Here.md)**

@@ -16,4 +16,4 @@ This ReadMe is a list of recommended Tutorials.
 ## Videos:
 - Soon to Come! 
 
-**[Back To Table of Contents](https://gitlab.com/DMI-TA/getting-started/blob/master/1-Start-Here.md)**
+**[Back To Table of Contents](https://github.com/HoldenRiot/getting-started-automation/blob/master/1-Start-Here.md)**

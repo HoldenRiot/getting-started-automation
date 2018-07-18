@@ -14,4 +14,4 @@ To Automate Mobile Applications, it is highly recommened to do so on Mac OS. We 
 - [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
 
-**[Back To Table of Contents](https://gitlab.com/DMI-TA/getting-started/blob/master/1-Start-Here.md)**
+**[Back To Table of Contents](https://github.com/HoldenRiot/getting-started-automation/blob/master/1-Start-Here.md)**
