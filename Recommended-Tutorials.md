@@ -1,6 +1,6 @@
 # Recommened Tutorials & Training
 
-This ReadMe is a list of recommended Tutorials.
+This ReadMe is a list of recommended Tutorials. More soon to come.
 
 # Fundamentals:
 - [Angular](https://angular.io/guide/quickstart) 
