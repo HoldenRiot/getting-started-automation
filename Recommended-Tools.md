@@ -25,8 +25,10 @@ This ReadMe is a list of recommended Software Testing Tools & Software for getti
 - **[Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)** is a tool to use when auditing websites. This tool produces a report and can help provide users with recommended steps to consider to improving the performance, quality, and correctness of web apps.
 
 ## API Testing:
-- **[Postman](https://www.getpostman.com/)** is a great and Free tool by Google for Testing API's. *Use example:* Status Checks/Performance/Load Testing API's.
-- **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)** is a great free and open source tool by Apache. Great for multiple user/thread use Testing API's.  *Use example:* Status Checks/Performance/Load Testing API's.
+- **[Postman](https://www.getpostman.com/)** is a great and Free tool by Google for Testing API's. 
+    - *Use example:* Status Checks/Performance/Load Testing API's.
+- **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)** is a great free and open source tool by Apache. Great for multiple user/thread use Testing API's.  
+    - *Use example:* Status Checks/Performance/Load Testing API's.
 
 
 ## Management Tools:
