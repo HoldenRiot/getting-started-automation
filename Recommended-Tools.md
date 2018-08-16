@@ -30,6 +30,10 @@ This ReadMe is a list of recommended Software Testing Tools & Software for getti
 - **[JMeter](https://jmeter.apache.org/download_jmeter.cgi)** is a great free and open source tool by Apache. Great for multiple user/thread use Testing API's.  
     - *Use example:* Multi User/Thread count Status Checks/Performance/Load Testing API's.
 
+## Record & Playback IDE's:
+Record & Playback IDE's for beginning to automate testing. Record & Playback IDE's are a great start to better understanding automation testing and selenium.
+- **[Katalon Studio](https://www.katalon.com/)
+- **[TestProject](https://testproject.io/)
 
 ## Management Tools:
 ### Mac OS
