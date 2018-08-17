@@ -34,6 +34,7 @@ This ReadMe is a list of recommended Software Testing Tools & Software for getti
 Record & Playback IDE's for beginning to automate testing. Record & Playback IDE's are a great start to better understanding automation testing and selenium. These two tools are free and open source and a great foot in the door to automation testing.
 - **[Katalon Studio](https://www.katalon.com/)**
 - **[TestProject](https://testproject.io/)**
+- **[EndTest](https://endtest.io/)** -Codeless Automated Testing
 
 ## Management Tools:
 ### Mac OS
