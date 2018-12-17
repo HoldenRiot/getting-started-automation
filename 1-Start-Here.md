@@ -1,7 +1,4 @@
 # Start Here
-## Table of Contents for Getting Started
-
-This is a portal Table of Contents for Testing.
 
 # Table of Contents:
 1. Initial Setup (Pick One)
