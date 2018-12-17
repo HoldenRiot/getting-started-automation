@@ -16,7 +16,7 @@ This ReadMe is a list of recommended Software Testing Tools & Software for getti
 - **[Microsoft Visual Studio](https://www.visualstudio.com/downloads/)**
 
 ## Testing Team Communication:
-- **[Discord](http://discordapp.com/)**
+- **[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)**
 
 ## Browser Testing:
 - **[Bug Magnet Google Chrome Extension](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi)** is a great exploratory testing tool for Chrome.
