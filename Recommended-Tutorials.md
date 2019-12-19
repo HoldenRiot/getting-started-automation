@@ -7,7 +7,7 @@ This ReadMe is a list of recommended Tutorials to complete in order.
 1. [Foundations of Software Testing](http://www.testingeducation.org/BBST/foundations/)
 2. [Bug Advocacy](http://www.testingeducation.org/BBST/bugadvocacy/)
 3. [Test Design](http://www.testingeducation.org/BBST/testdesign/)
-4. [Exploratory Testing)(http://www.testingeducation.org/BBST/exploratory/)
+4. [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
 
 
 # 2. Test Automation University/ Start Automating
