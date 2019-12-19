@@ -10,7 +10,7 @@ This ReadMe is a list of recommended Tutorials to complete in order.
 4. [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
 
 
-# 2. Test Automation University/ Start Automating
+# 2. Test Automation University / Start Automating
 1. [Web UI Java Training Course](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-java-path)
 2. [API Java Training Course](https://testautomationu.applitools.com/learningpaths.html?id=api-java-path)
 3. [Mobile Java Training Course](https://testautomationu.applitools.com/learningpaths.html?id=mobile-java-path)
