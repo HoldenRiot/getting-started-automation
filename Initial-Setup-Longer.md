@@ -79,7 +79,7 @@ Still having Issues with Setup on Mac OS? View the Help Guides:
 
 4. Download and Install Chocolatey
     - Follow Install Instructions [here](https://chocolatey.org/install).
-    - Using the [Chocolately Package page](https://chocolatey.org/packages), we can find what we need. (Search isn't always teh best so using Google as well "site:chocolatey.org Java JDK") (or chocolate search "tag:jdk").
+    - Using the [Chocolately Package page](https://chocolatey.org/packages), we can find what we need. (Search isn't always the best so using Google as well "site:chocolatey.org Java JDK") (or chocolate search "tag:jdk").
 
 5. Open a New Command Prompt/Terminal window and enter the following to install Java, Maven, and IntelliJ: 
     - `choco install jdk10`
