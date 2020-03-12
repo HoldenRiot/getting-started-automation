@@ -76,68 +76,7 @@ Still having Issues with Setup on Mac OS? View the Help Guides:
 
        - **Note:** On `CHROMEDRIVER_HOME` and `GECKODRIVER_HOME`, be sure that is the exact path to the .exe of chromedriver/geckodriver!
        
-### Longer Windows Setup:
-
-1. Create a Folder Directory called `Drivers` in your `\User\` Directory where YourUserNameHere is your Windows Username.
-
-2. Download [ChromeDriver](http://chromedriver.chromium.org/downloads), and extract to your newly created `\User\drivers\`
-
-3. Download [GeckoDriver](https://github.com/mozilla/geckodriver/releases), and extract to `\User\drivers\`
-
-4. Download & Install [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html). (Download the JDK, not JRE). e.g ``C:\Program Files\Java\jdkx.x.x_xxx`(Where the X's are the version you installed.)
-
-5. Download and Install [Maven](http://maven.apache.org/download.html#Installation).
-
-   - Download and Unzip Maven to a directory (avoid one with spaces in it). 
-     - e.g. `C:\maven_3_3_9`
-
-6. Setup Environment Variables.
-
-7. Enter Windows Environment Variables:
-
-   1. In Search, search for and then select: System (Control Panel)
-
-   2. Click the Advanced system settings link.
-
-   3. Click Environment Variables. In the section System Variables, find the PATH environment variable and select it. Click Edit. If the PATH environment variable does not exist, click New.
-
-   4. In the Edit System Variable (or New System Variable) window, specify the value of the PATH environment variable. Click OK. Close all remaining windows by clicking OK.
-
-   5. Reopen Command prompt window, and run your java code.
-
-   6. Add the Java "/bin" folder to the path if it hasn't been added. (See Step 2) e.g. `C:\Program Files\Java\jdkx.x.x_xxx\bin`
-
-   7. Create a `JAVA_HOME` environment variable for the root path. e.g. `C:\Program Files\Java\jdkx.x.x_xxx`.
-
-   8. Add `C:\maven_3_3_9\bin` to the PATH in System Variables.
-
-   9. Add `CHROMEDRIVER_HOME` environment variable to Chromedriver.exe location. (E.g. User\drivers\chromedriver.exe).
-
-   10. Add `GECKODRIVER_HOME` environment variables to Geckodriver.exe location (E.g. User\drivers\geckodriver.exe).
-
-       - **Note:** On `CHROMEDRIVER_HOME` and `GECKODRIVER_HOME`, be sure that is the exact path to the .exe of chromedriver/geckodriver!
-
-8. Check to ensure the environment variables are setup correctly by typing the following in a **New Command Prompt Window**:
-
-   - **`javac -version`** 
-
-     - If correct, You should see the version of Java installed displayed
-     - If incorrect, see Step 1 & 4 (Install Java JDK). 
-
-   - **`echo %JAVA_HOME%`** 
-
-     - If correct, You should see the path of Java installed displayed
-     - If incorrect, see Step 1 & 4. 
-
-   - **`echo %PATH%`** 
-
-     - If correct, You should see the path of Maven installed displayed
-     - If incorrect, see Step 2 & 4.
-
-   - **`mvn -version`** 
-
-     - If correct, You should see the version of mvn installed displayed
-     - If incorrect, see Step 2 % 4. 
+### [View the Longer Windows Setup](https://github.com/HoldenRiot/getting-started-automation/blob/master/Initial-Setup-Longer.md)
 
 Still having Issues with Setup on Windows? View the Help Guides:
 
