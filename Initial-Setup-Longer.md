@@ -4,6 +4,8 @@
 This ReadMe is a guide to getting everything you need to start automation testing web & mobile apps. 
 
 ### Before you go any further, please Select your OS Below to ensure you follow the correct instructions.
+#### [MacOS](https://gitlab.com/DMI-TA/getting-started/blob/master/Initial-Setup.md#macos)
+#### [Windows](https://gitlab.com/DMI-TA/getting-started/blob/master/Initial-Setup.md#windows)
 
 # Setup on Mac OS:
 1. Create a Folder Directory called `Drivers` in your `/Users/YourUserNameHere/` Directory where YourUserNameHere is your Mac Username.
@@ -79,13 +81,13 @@ Still having Issues with Setup on Mac OS? View the Help Guides:
 
 4. Download and Install Chocolatey
     - Follow Install Instructions [here](https://chocolatey.org/install).
-    - Using the [Chocolately Package page](https://chocolatey.org/packages), we can find what we need. (Search isn't always the best so using Google as well "site:chocolatey.org Java JDK") (or chocolate search "tag:jdk").
+    - Using the [Chocolately Package page](https://chocolatey.org/packages), we can find what we need. (Search isn't always teh best so using Google as well "site:chocolatey.org Java JDK") (or chocolate search "tag:jdk").
 
-5. Open a New Command Prompt/Terminal window and enter the following to install Java, Maven, and IntelliJ: 
-    - `choco install jdk10`
+5. Open a New Command Prompt/Terminal window and enter the following to install Maven: 
     - `choco install maven`
+6. [Download and install Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
-6. Setting your Evironment Variables:
+7. Setting your Evironment Variables:
 - Enter Windows Environment Variables:
     1. In Search, search for and then select: System (Control Panel)
     2. Click the Advanced system settings link.
@@ -95,12 +97,12 @@ Still having Issues with Setup on Mac OS? View the Help Guides:
 
 - Add the Java "/bin" folder to the path if it hasn't been added. (See Step 2) e.g. `C:\Program Files\Java\jdkx.x.x_xxx\bin`
 - Create a `JAVA_HOME` environment variable for the root path. e.g. `C:\Program Files\Java\jdkx.x.x_xxx`.
-- Add `C:\maven_3_3_9\bin` to the PATH in System Variables.
+- Add `C:\maven_x_x_x\bin` to the PATH in System Variables.
 - Set `CHROMEDRIVER_HOME` environment variable to Chromedriver.exe location. (E.g. User\drivers\chromedriver.exe).
 - Set `GECKODRIVER_HOME` environment variables to Geckodriver.exe location (E.g. User\drivers\geckodriver.exe).
     - **Note:** On `CHROMEDRIVER_HOME` and `GECKODRIVER_HOME`, be sure that is the exact path to the .exe of chromedriver/geckodriver!
 
-7. Check to ensure the environment variables are setup correctly by typing the following in a **New Command Prompt/Terminal Window**:
+8. Check to ensure the environment variables are setup correctly by typing the following in a **New Command Prompt/Terminal Window**:
 - **`javac -version`** 
     - If correct, You should see the version of Java installed displayed
         - If incorrect, see Step 1 & 4. (Install Java JDK).  
@@ -139,7 +141,7 @@ Still having Issues with Setup on Mac OS? View the Help Guides:
     5. Reopen Command prompt window, and run your java code.
 - Add the Java "/bin" folder to the path if it hasn't been added. (See Step 2) e.g. `C:\Program Files\Java\jdkx.x.x_xxx\bin`
 - Create a `JAVA_HOME` environment variable for the root path. e.g. `C:\Program Files\Java\jdkx.x.x_xxx`.
-- Add `C:\maven_3_3_9\bin` to the PATH in System Variables.
+- Add `C:\maven_x_x_x\bin` to the PATH in System Variables.
 - Add `CHROMEDRIVER_HOME` environment variable to Chromedriver.exe location. (E.g. User\drivers\chromedriver.exe).
 - Add `GECKODRIVER_HOME` environment variables to Geckodriver.exe location (E.g. User\drivers\geckodriver.exe).
     - **Note:** On `CHROMEDRIVER_HOME` and `GECKODRIVER_HOME`, be sure that is the exact path to the .exe of chromedriver/geckodriver!
