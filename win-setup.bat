@@ -5,7 +5,7 @@ WshShell.SendKeys "{ENTER}"
 choco install vscode
 choco install googlechrome
 choco install firefox
-choco install jdk10
+choco install openjdk
 choco install maven
 choco install selenium
 choco upgrade selenium-all-drivers
