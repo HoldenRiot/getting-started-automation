@@ -11,10 +11,12 @@ This ReadMe is a list of training course material to be completed in order.
 
 
 # 2. Start Automating
-### Test Automation University
+### Test Automation University / Certifications
 1. [Web UI Java Training Course](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-java-path)
 2. [API Java Training Course](https://testautomationu.applitools.com/learningpaths.html?id=api-java-path)
 3. [Mobile Java Training Course](https://testautomationu.applitools.com/learningpaths.html?id=mobile-java-path)
+
+- [View more Test Automation University Certifications](https://testautomationu.applitools.com/)
 
 
 **[Back To Table of Contents](https://github.com/HoldenRiot/getting-started-automation/blob/master/1-Start-Here.md)**
