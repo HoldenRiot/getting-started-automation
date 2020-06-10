@@ -21,7 +21,8 @@ brew cask install firefox
 brew cask install java
 brew install maven
 brew cask install chromedriver
-brew cask install geckodriver
+brew install geckodriver
+brew install selenium-server-standalone
 
 echo Initial setup Complete.  Have a great day!
 echo ----------
