@@ -28,10 +28,10 @@ This ReadMe is a guide to getting everything you need to start automation testin
 - `nano .bash_profile` (To create a Bash Profile)
     - In your `.bash_profile`, make it look like the following: 
 ```
-export M2_HOME=/usr/local/apache-maven/apache-maven-3.5.4
-export M2=$M2_HOME/bin
-export PATH=$M2:$PATH
-export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
+export M2_HOME=/usr/local/Cellar/maven/3.6.3_1/libexec
+export M2=${M2_HOME}/bin
+export PATH=${PATH}:${M2_HOME}/bin
+
 # System Variables
 export SAUCE_USERNAME=userNameHere
 export SAUCE_ACCESS_KEY=keyHere
