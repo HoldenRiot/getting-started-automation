@@ -56,7 +56,7 @@ export GECKODRIVER_HOME=/Users/USERNAMEHERE/drivers/geckodriver
         - If incorrect, See Step 5 & 6. (Install Maven and Set Environment Variable)
 
 - **`javac -version`**
-    - If correct, You should see something like: `javav 1.8.x_xxx`
+    - If correct, You should see something like: `javac 1.8.x_xxx`
         - If incorrect, See Step 5 & 6.
 
 - **`mvn - version`**
